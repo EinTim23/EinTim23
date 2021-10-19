@@ -14,7 +14,7 @@
 
 - 📫 Contact me on discord **Da Mivolis#1337**
 
-- ⚡ Fun fact **Currently losing control in my real life**
+- ⚡ Fun fact **Currently losing control over my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
