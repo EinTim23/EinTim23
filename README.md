@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OpenGL game developing**
 
-- 👯 Coding on Cheats with @akineechan [MonarchCheats](https://monarchcheats.com)
+- 👯 Coding Cheats with @akineechan [MonarchCheats](https://monarchcheats.com)
 
 - 💬 Ask me about **C++, express, linux**
 
