@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Programming(mainly C++), express, linux, server management**
 
-- 📫 Contact me on discord **Da Mivolis#1337**
+- 📫 Contact me on discord **EinTim#0777**
 
 - ⚡ Fun fact **Currently losing control over my life**
 
