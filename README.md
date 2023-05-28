@@ -10,7 +10,7 @@
 
 - 👯 Coding Cheats with @akineechan [MonarchCheats](https://monarchcheats.com)
 
-- 💬 Ask me about **Programming(mainly C++), express, linux, server management**
+- 💬 Ask me about **Programming(mainly C++ and GO), reverse engineering, linux, server management**
 
 - 📫 Contact me on discord **EinTim#0777**
 
