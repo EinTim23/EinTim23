@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm EinTim</h1>
 <h3 align="center">Some developer and cracker from germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eintim23&label=Profile%20views&color=0e75b6&style=flat" alt="eintim23" /> </p>
-
 
 - 🔭 I’m currently working on [Monarch Services](https://monarchupload.cc) formerly known as Monarch Upload, Monarch Mail and Monarch Cheats
 
