@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Programming(mainly C++ and GO), reverse engineering, linux, server management**
 
-- 📫 Contact me on discord **EinTim#0777**
+- 📫 Contact me on discord **EinTim#1337**
 
 - ⚡ Fun fact **Currently losing control over my life**
 
