@@ -2,15 +2,13 @@
 <h3 align="center">Some developer and cracker from germany</h3>
 
 
-- 🔭 I’m currently working on [Monarch Services](https://monarchupload.cc) formerly known as Monarch Upload, Monarch Mail and Monarch Cheats
+- 🔭 I’m currently working on [Monarch Services](https://monarchupload.cc) formerly known as Monarch Upload, Monarch Mail and Monarch Cheats, My own DRM and Overdose V2
 
-- 🌱 I’m currently learning **OpenGL game developing**
+- 🌱 I’m currently learning **Emulator development**
 
-- 💬 Ask me about **Programming(mainly C++ and GO), reverse engineering, linux, server management**
+- 💬 Ask me about **Programming, reverse engineering, linux, server/infrastructure management**
 
-- 📫 Contact me on discord **EinTim#1337**
-
-- ⚡ Fun fact **Currently losing control over my life**
+- 📫 Contact me on discord **@eintim23**
 
 - ⚡ not very active on github, mostly using [a private git](https://git.monarchcheats.com) for my projects.
 <h3 align="left">Connect with me:</h3>
