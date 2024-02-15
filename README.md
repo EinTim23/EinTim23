@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EinTim</h1>
-<h3 align="center">Some developer and cracker from germany</h3>
+<h3 align="center">Some developer and reverse engineer from germany</h3>
 
 
 - 🔭 I’m currently working on [Monarch Services](https://monarchupload.cc) formerly known as Monarch Upload, Monarch Mail and Monarch Cheats, My own DRM and Overdose V2
