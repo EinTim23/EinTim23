@@ -16,7 +16,7 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany. With years
 - My own software DRM that hasn't ever been cracked yet, reverse engineering samples can be obtained for free by contacting me
 - Monarch, a collection of my fun projects which currently includes a forum, file sharing and e-mail provider
 - Overdose, my private cheat provider with sophisticated anticheat bypass and a fully automated unique build system
-- Snapchat jailbreak and sideloading detection bypass, currently used by [one of the biggest Snapchat modifications](https://repo.objcmsgsend.dev/) out there
+- Snapchat jailbreak and sideloading detection bypass, currently used by [one of the biggest Snapchat modifications for ios out there](https://repo.objcmsgsend.dev/)
 - PS4 linux port for firmware 11.00 ([modded warfare video](https://www.youtube.com/watch?v=qlsdUcYrV2M), [My initial showcase](https://www.youtube.com/watch?v=H4DBDMqlgkI))
 - Many more things I made over the years but never publicly released on various platforms/video game consoles. However, I would like to open source some of my projects in the future and start writing a blog as most repos on this github account are very old.
 
@@ -36,6 +36,8 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany. With years
 - **Website**: [click here](https://eintim.dev)
 - **Email**: eintim@eintim.me
 - **Telegram**: @eintim23
+- **Matrix**: @eintim23:matrix.org
+- **Threema**: 36U2JFJY
 - **Discord**: @eintim23
 
 ---
