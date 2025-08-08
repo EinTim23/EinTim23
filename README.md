@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves making and breaking DRMs ;). With years of experience in software development and deep technical knowledge, I enjoy tackling complex challenges, whether it's building innovative solutions or dissecting existing ones to understand their inner workings.
+I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves making and breaking DRMs. With years of experience in software development and deep technical knowledge, I enjoy tackling complex challenges, whether it's building innovative solutions or dissecting existing ones to understand their inner workings. In addition to that I'm a System Administrator at [Pfcloud](https://pfcloud.io) and try to (somewhat) actively maintain my [blog](https://blog.eintim.dev)
 
 ## 🛠️ My Skillset
 
@@ -45,3 +45,4 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves 
 ---
 
 *“Software is like sex: it's better when it's free.”* – Linus Torvalds
+
