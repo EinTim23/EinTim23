@@ -19,6 +19,7 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves 
 - PS4 linux port for firmware 11.00 ([modded warfare video](https://www.youtube.com/watch?v=qlsdUcYrV2M), [My initial showcase](https://www.youtube.com/watch?v=H4DBDMqlgkI))
 - [PlayerLink](https://github.com/EinTim23/PlayerLink) Small cross plattform C++ GUI application to link various media players to discord
 - [Phantom IM](https://github.com/sphinx-soft/im-server/tree/trunk) Phantom IM is a reimplementation of the MySpaceIM backend made by reverse engineering the MSIM protocol and client.
+- Working on a modern LLVM based compiler and toolchain for the XBox 360 at [OpenXeChain](https://github.com/OpenXeChain) 
 - Snapchat jailbreak and sideloading detection bypass, currently used by [one of the biggest Snapchat modifications for ios out there](https://repo.objcmsgsend.dev/)
 - Many more things I made over the years but never publicly released on various platforms including video game consoles.
 
@@ -45,4 +46,5 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves 
 ---
 
 *“Software is like sex: it's better when it's free.”* – Linus Torvalds
+
 
