@@ -6,10 +6,10 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves 
 
 ## 🛠️ My Skillset
 
-- **Programming Languages**: C/C++, Objective C, Go, Dart, C#, Python, JavaScript/TypeScript
+- **Programming Languages**: C/C++, Objective C, Go, Rust, Dart, C#, Python, JavaScript/TypeScript
 - **Frameworks & Tools**: Flutter, Vue JS, Electron, MySQL, PostgreSQL, Docker, Git
 - **Operating Systems**: Windows, Linux, Mac OS, Android, iOS
-- **Reverse Engineering**: x86, arm64 and some power pc assembly, Binary analysis, debugging
+- **Reverse Engineering**: x86, arm64 and ppc32 assembly, Binary analysis, debugging, compiler development
 
 ## Projects
 
@@ -46,5 +46,6 @@ I'm a passionate **Developer** and **Reverse Engineer** from Germany that loves 
 ---
 
 *“Software is like sex: it's better when it's free.”* – Linus Torvalds
+
 
 
